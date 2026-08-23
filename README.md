@@ -1,2 +1,3 @@
-# my-data-science-journey
-A structured journey through Data Science, from Python and SQL to Machine Learning and AI.
+# 🚀 My Data Science Journey
+
+> A hands-on journey through Data Science, Machine Learning, SQL, AI, and problem solving.
